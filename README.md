@@ -227,13 +227,13 @@ Refer to [usecases.md](usecases.md) for a more detailed description of the follo
  #### Principles and Solutions
 
   - Reduce heavy joins
-  - Reproducable reporting
+  - Reproducible reporting
   - Data Historical validation
   - Fast dicing/slicing of data
   - Streaming Analytics
   - Curated Glossary/Data Dictionary
   - Curated Data Access
-  - Curated Data secutity/privacy
+  - Curated Data security/privacy
   - Rendering of Reports
   - Solving the Ad-Hoc Reports
 
